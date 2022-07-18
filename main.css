@@ -1,0 +1,53 @@
+body {
+    background-image: linear-gradient( #ff8a00, lightblue, lime);
+    height: 100vh;
+    margin: 0% auto;
+   
+    
+}
+
+h1 {
+ 
+    color: white;
+    text-align: center;
+   
+   
+
+}
+
+h2 {
+color: white;
+}
+
+h3{
+color: white;
+}
+
+li {
+    color: white;
+    border: 2px solid lime;
+   
+    display: inline;
+    /* border-radius: 10%; */
+    padding: 15px 15px;
+    margin: 5px 5px;
+}
+
+
+ul {
+    color: white;
+    display: flex;
+    list-style: none;
+    padding: 0;
+
+}
+
+
+
+
+    
+
+
+
+
+/* Write your CSS code in this file */
