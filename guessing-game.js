@@ -9,6 +9,8 @@ a user clicks a button or adds a guess to the input field.
 const input = document.getElementsByTagName('input')[0];
 const submitButton = document.getElementById('submit-button');
 const listItems = document.getElementsByTagName('li');
+const playAgain = document.getElementById('again');
+const list = document.getElementsByTagName('ul')[0];
 let listItemIdx = 0;
 
 let hint = alert;
